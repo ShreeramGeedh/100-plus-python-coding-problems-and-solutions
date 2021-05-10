@@ -19,7 +19,7 @@ result = int_num * float_num
 print("Your result is: ", result)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+
 
 ## Shortcut
 > You wrote input in one line and then in the next line you used int or float to convert the number. You can write the two lines in one line. Like below 
@@ -31,7 +31,7 @@ result = int_num * float_num
 print('Your result is: ', result)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+
 
 ## Going Forward
 Going forward, we will write input and conversion in one line.
