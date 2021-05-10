@@ -17,7 +17,6 @@ import random
 random_num = random.randint(0,10)
 print(random_num)
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Quiz
 How will you generate a random integer number?
