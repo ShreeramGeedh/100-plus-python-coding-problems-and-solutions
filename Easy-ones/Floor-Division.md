@@ -21,7 +21,6 @@ result = num1//num2
 print(result)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Explanation
 When you divide one number by another you get two things. One is called the integer part of the division. Another is the remainder. 
@@ -53,7 +52,7 @@ num2 = int(input('Enter the second number: '))
 result = math.floor(num1/num2)
 print(result)
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
+
 
 ## Quiz
 How will you get a floor division?
